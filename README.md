@@ -14,11 +14,11 @@ Weights are from the [official AZ-900 study guide](https://learn.microsoft.com/e
 
 ## Progress
 
-- [ ] Cloud concepts
-- [ ] Azure architecture and services
-- [ ] Azure management and governance
-- [ ] Practice assessment
-- [ ] Exam scheduled
+- [x] Cloud concepts
+- [x] Azure architecture and services
+- [x] Azure management and governance
+- [x] Practice assessment
+- [x] Exam passed
 
 ## Resources
 
