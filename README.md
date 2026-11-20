@@ -12,6 +12,10 @@ A personal library of study notes for the [AZ-900 exam](https://learn.microsoft.
 
 Weights are from the [official AZ-900 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900) (skills measured as of July 20, 2026).
 
+## Practice exam
+
+**[▶ Take the AZ-900 practice exam](https://brandonicus-rex.github.io/az-900-study-notes/practice-exam/)**: 45 questions, 45-minute timer, scored out of 1000 (700 to pass). Questions are weighted by the official domain percentages and include all the question types the real exam uses. Source: [`practice-exam/index.html`](practice-exam/index.html).
+
 ## Progress
 
 - [x] Cloud concepts
